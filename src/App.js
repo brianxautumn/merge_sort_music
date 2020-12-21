@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Vaporwavez
+          Merge Sort Music
         </h1>
         <div>
-          <a href="https://www.instagram.com/vaporwavez_music/">Instagram</a>
+          <a href="https://www.instagram.com/mergesortmusic/">Instagram</a>
         </div>
       </header>
     </div>
