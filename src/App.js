@@ -6,10 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Merge Sort Music
+          Merge Sort
         </h1>
-        <div>
+        <p>Lofi producer.</p>
+        <div className="link-bar">
+          <a href="https://open.spotify.com/artist/4UPo57FqA3a63Shj4uh532">Spotify</a>
           <a href="https://www.instagram.com/mergesortmusic/">Instagram</a>
+          <a href="https://twitter.com/mergesortmusic">Twitter</a>
         </div>
       </header>
     </div>

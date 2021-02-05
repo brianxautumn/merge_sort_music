@@ -44,4 +44,11 @@ a{
   text-decoration: none;
   font-weight: bolder;
   color: black;
+  margin-bottom: 20px;
+  max-width: 500px;
+}
+
+.link-bar{
+  display: flex;
+  flex-direction: column;
 }
